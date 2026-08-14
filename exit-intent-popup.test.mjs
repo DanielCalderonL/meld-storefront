@@ -15,7 +15,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
 
-const ROOT = '/Users/danielcalderon-lameda/Projects/hair-product/site/vercel';
+const ROOT = '/Users/danielcalderon-lameda/Workspace/companies/meld/site/vercel';
 const PORT = 8912;
 const MIME = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css',
   '.webp': 'image/webp', '.png': 'image/png', '.jpg': 'image/jpeg', '.svg': 'image/svg+xml',
